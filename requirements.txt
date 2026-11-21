@@ -1,0 +1,17 @@
+streamlit>=1.57
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+networkx
+numpy
+plotly
+sentence-transformers
+transformers
+chromadb
+rank-bm25
+pypdf
+python-docx
+python-dotenv
+pandas
+pytest

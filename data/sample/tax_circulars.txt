@@ -1,0 +1,16 @@
+ILLUSTRATIVE SYNTHETIC CORPUS - Tax & Regulatory Services (not actual law; for demonstration only)
+
+CBDT Notification 21/2024 (Illustrative)
+The Central Board of Direct Taxes (CBDT) has clarified that Section 194C of the Income Tax Act applies to payments made to resident contractors for carrying out any work, including supply of labour. The Income Tax Department requires tax to be deducted at source at 1% for individuals and HUF and 2% for other payees. Where the aggregate of payments in a financial year does not exceed INR 1,00,000, no deduction is required, subject to the single-payment threshold of INR 30,000.
+
+Clarification on Section 194C and Section 194J (Illustrative)
+The Tax Authority clarifies that where a contract is a composite contract for professional services, Section 194J of the Income Tax Act prevails over Section 194C. The rate under Section 194J is 10% for professional fees. This clarification is retrospective in nature and applies to assessment year 2023-24 onward because it merely explains the existing provision. Failure to deduct tax attracts disallowance under Section 40(a)(ia) of 30% of the expenditure.
+
+Amendment Notification 33/2024 (Illustrative)
+CBDT Notification 33/2024 amends Rule 30 of the Income-tax Rules with prospective effect from 1 April 2025. The amendment extends the due date for depositing TDS to the credit of the Central Government. Because this is an amendment and not a clarification, it does not apply to deductions made before 1 April 2025.
+
+CBIC Circular 12/2024 on GST Input Service Distributor (Illustrative)
+The Central Board of Indirect Taxes and Customs (CBIC) issued Circular 12/2024 explaining ISD rules. An Input Service Distributor must distribute input tax credit on common input services through an ISD invoice under Section 20 of the CGST Act. The GST Council in its 57th meeting recommended that ISD registration be mandatory for distribution of credit to branches with a different GSTIN. Non-registration results in a penalty of INR 25,000 under Section 122 of the CGST Act.
+
+E-invoicing under GST (Illustrative)
+Under the e-invoicing rules, registered persons with aggregate turnover above INR 5 crore must report invoices to the Invoice Registration Portal within 30 days of invoice date. The GST Authority may deny input tax credit to the recipient where the supplier has not generated an IRN. The CBIC Circular 12/2024 cross-refers to e-invoicing for ISD invoices.

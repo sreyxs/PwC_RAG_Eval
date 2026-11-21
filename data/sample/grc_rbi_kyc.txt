@@ -1,0 +1,13 @@
+ILLUSTRATIVE SYNTHETIC CORPUS - Risk Advisory & Governance (not actual regulation; for demonstration only)
+
+RBI Master Direction on KYC (Illustrative)
+The Reserve Bank of India (RBI) Master Direction on Know Your Customer requires regulated entities to complete Customer Due Diligence (CDD) before establishing an account-based relationship. Enhanced Due Diligence (EDD) is mandatory for Politically Exposed Persons (PEPs) and high-risk customers. Under Section 12 of the Prevention of Money Laundering Act (PMLA), regulated entities must maintain records of transactions for five years from the date of transaction.
+
+Suspicious Transaction Reporting (Illustrative)
+Under PMLA Rule 8, a Suspicious Transaction Report (STR) must be furnished to the Financial Intelligence Unit - India (FIU-IND) within 7 working days of arriving at a conclusion that a transaction is suspicious. The Principal Officer designated by the regulated entity is responsible for filing the STR. A failure to file attracts a monetary penalty of INR 10,000 to INR 1,00,000 per failure under Section 13 of the PMLA. The RBI may additionally impose supervisory penalties.
+
+Control mapping (Illustrative)
+Internal Control IC-07 (Periodic KYC refresh) maps to the RBI KYC Master Direction obligation for periodic updation: every 2 years for high-risk customers, 8 years for medium-risk and 10 years for low-risk customers. Internal Control IC-12 (Transaction monitoring) maps to the PMLA Section 12 record-keeping obligation and the STR obligation under Rule 8. Control IC-12 is owned by the Chief Compliance Officer.
+
+SEBI BRSR and ISO 31000 (Illustrative)
+The Securities and Exchange Board of India (SEBI) requires the top 1000 listed entities to file the Business Responsibility and Sustainability Report (BRSR). BRSR Core assurance is mandatory for the top 150 listed entities. Enterprise risk assessment aligned to ISO 31000 should identify, analyse, evaluate and treat ESG risks, and the Audit Committee must review the risk register at least annually.

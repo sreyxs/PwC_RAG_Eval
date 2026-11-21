@@ -1,0 +1,55 @@
+# PwC-inspired theme (orange accent on neutral surfaces), light + dark supported
+[theme]
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "6px"
+buttonRadius = "6px"
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+codeFontSize = "0.85rem"
+baseFontSize = 14
+headingFontSizes = ["32px", "26px", "22px", "18px", "16px", "14px"]
+headingFontWeights = [650, 650, 600, 600, 600, 600]
+
+[theme.light]
+primaryColor = "#D04A02"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F5F3"
+textColor = "#1F1F1F"
+linkColor = "#B23E00"
+borderColor = "#E6E0DA"
+grayColor = "#6B6560"
+blueColor = "#2B6CB0"
+greenColor = "#2F855A"
+redColor = "#C53030"
+yellowColor = "#B7791F"
+orangeColor = "#D04A02"
+violetColor = "#6B46C1"
+chartCategoricalColors = ["#6B7280", "#2B6CB0", "#D04A02", "#2F855A", "#6B46C1", "#B7791F", "#C53030"]
+
+[theme.dark]
+primaryColor = "#FF7A3D"
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#1D1B1A"
+textColor = "#F5F2EF"
+linkColor = "#FFA06B"
+borderColor = "#2E2A27"
+grayColor = "#A39B94"
+blueColor = "#63B3ED"
+greenColor = "#68D391"
+redColor = "#FC8181"
+yellowColor = "#F6E05E"
+orangeColor = "#FF7A3D"
+violetColor = "#B794F4"
+chartCategoricalColors = ["#A39B94", "#63B3ED", "#FF7A3D", "#68D391", "#B794F4", "#F6E05E", "#FC8181"]
+
+[theme.light.sidebar]
+backgroundColor = "#F7F5F3"
+secondaryBackgroundColor = "#EFEBE7"
+
+[theme.dark.sidebar]
+backgroundColor = "#0B0B0B"
+secondaryBackgroundColor = "#1D1B1A"
+
+[client]
+toolbarMode = "minimal"

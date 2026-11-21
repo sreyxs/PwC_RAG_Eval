@@ -1,0 +1,13 @@
+ILLUSTRATIVE SYNTHETIC CORPUS - Deal Advisory & Corporate Finance (fictional contract; for demonstration only)
+
+Share Purchase Agreement - Project Meridian (Illustrative)
+This Share Purchase Agreement (SPA) is entered into between Alpha Holdings Pvt Ltd (the Seller) and Zenith Industries Ltd (the Purchaser) for the acquisition of 100% of the equity share capital of Meridian Components Pvt Ltd (the Target) for an enterprise value of INR 850 crore.
+
+Clause 9 - Indemnities (Illustrative)
+Under Clause 9.1 the Seller shall indemnify the Purchaser against Losses arising from breach of Warranties. Clause 9.2 provides that the Seller's aggregate liability is capped at 25% of the Purchase Price, except for Fundamental Warranties and Tax Indemnity under Clause 9.4, which are capped at 100% of the Purchase Price. A basket (deductible) of INR 2 crore applies to each claim under Clause 9.1. Indemnity claims must be notified within 24 months of Closing, and within 6 years for the Tax Indemnity.
+
+Clause 11 - Material Adverse Change (Illustrative)
+Clause 11.1 defines a Material Adverse Change (MAC) as any event that reduces the consolidated EBITDA of the Target by more than 15% or results in loss of the Target's key customer Orion Motors, which contributes 40% of revenue. If a MAC occurs between signing and Closing, the Purchaser may terminate the SPA under Clause 11.3 without liability. The Seller disclosed a pending Income Tax reassessment of INR 40 crore related to Section 148, which is excluded from the MAC definition but covered by the Tax Indemnity in Clause 9.4.
+
+Regulatory conditions (Illustrative)
+Because Zenith Industries Ltd is a non-resident-controlled entity, the acquisition is subject to FEMA pricing guidelines: the share price must not be lower than the fair value determined by a registered valuer under the Companies Act 2013 valuation standards. Clause 5.2 makes receipt of the Competition Commission of India approval and filing of Form FC-TRS with the Reserve Bank of India conditions precedent to Closing. Any foreign contribution received by the Target is subject to FCRA compliance, which the Seller warrants in Clause 8.7.

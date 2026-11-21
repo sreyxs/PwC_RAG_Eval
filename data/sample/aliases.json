@@ -1,0 +1,12 @@
+{
+  "CBDT": ["Central Board of Direct Taxes", "Income Tax Department", "Income Tax Dept", "Tax Authority"],
+  "CBIC": ["Central Board of Indirect Taxes and Customs", "GST Authority"],
+  "RBI": ["Reserve Bank of India", "the regulator"],
+  "PMLA": ["Prevention of Money Laundering Act"],
+  "FIU-IND": ["Financial Intelligence Unit - India", "Financial Intelligence Unit"],
+  "SPA": ["Share Purchase Agreement"],
+  "MAC": ["Material Adverse Change"],
+  "Purchaser": ["Zenith Industries Ltd", "Buyer"],
+  "Seller": ["Alpha Holdings Pvt Ltd", "Vendor"],
+  "Income Tax Act": ["Income-tax Act", "IT Act"]
+}
